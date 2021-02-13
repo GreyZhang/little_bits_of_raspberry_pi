@@ -7,3 +7,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113801390][513_树莓派400开启samba服务]]
 *** samba共享一个U盘空间
 - [[https://greyzhang.blog.csdn.net/article/details/113803016][514_树莓派400通过samba共享一个U盘作为网络共享存储]]
+*** 使用rz sz命令
+－ [[https://greyzhang.blog.csdn.net/article/details/113803701][515_树莓派400使用sz rz命令]]
