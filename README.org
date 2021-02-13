@@ -3,3 +3,5 @@
 ** 折腾笔记
 *** 开启SSH服务
 - [[https://greyzhang.blog.csdn.net/article/details/113797359][512_树莓派400开启SSH服务]]
+*** 开启samba服务
+- [[https://greyzhang.blog.csdn.net/article/details/113801390][513_树莓派400开启samba服务]]
