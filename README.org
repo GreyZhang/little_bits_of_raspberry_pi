@@ -11,3 +11,5 @@
 － [[https://greyzhang.blog.csdn.net/article/details/113803701][515_树莓派400使用sz rz命令]]
 *** samba共享移动硬盘粗暴设置
 - [[https://greyzhang.blog.csdn.net/article/details/113873319][540_samba共享移动硬盘的粗暴配置]]
+*** 查看CPU温度
+- [[https://greyzhang.blog.csdn.net/article/details/113873502][541_查看CPU的温度]]
