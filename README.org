@@ -13,3 +13,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113873319][540_samba共享移动硬盘的粗暴配置]]
 *** 查看CPU温度
 - [[https://greyzhang.blog.csdn.net/article/details/113873502][541_查看CPU的温度]]
+*** samba共享目录模板以及服务重启操作
+- [[https://greyzhang.blog.csdn.net/article/details/114107363][547_samba共享目录添加以及服务重启]]
