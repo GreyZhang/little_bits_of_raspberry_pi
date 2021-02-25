@@ -15,3 +15,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/113873502][541_查看CPU的温度]]
 *** samba共享目录模板以及服务重启操作
 - [[https://greyzhang.blog.csdn.net/article/details/114107363][547_samba共享目录添加以及服务重启]]
+*** 脚本实时查看CPU温度
+- [[https://greyzhang.blog.csdn.net/article/details/114108610][549_树莓派中通过简单脚本实时查看CPU温度]]
