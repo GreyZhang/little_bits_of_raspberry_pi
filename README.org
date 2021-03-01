@@ -23,3 +23,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114220353][554_使用iotop查看存储的读写速度]]
 *** 让程序后台运行
 - [[https://greyzhang.blog.csdn.net/article/details/114233246][556_让linux的命令能够断开ssh之后后台运行]]
+*** sysstat查看磁盘的读写情况
+- [[https://greyzhang.blog.csdn.net/article/details/114273546][559_使用iostat查看磁盘的读写情况]]
