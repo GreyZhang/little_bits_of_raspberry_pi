@@ -25,3 +25,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114233246][556_让linux的命令能够断开ssh之后后台运行]]
 *** sysstat查看磁盘的读写情况
 - [[https://greyzhang.blog.csdn.net/article/details/114273546][559_使用iostat查看磁盘的读写情况]]
+*** 批量word转pdf
+- [[https://greyzhang.blog.csdn.net/article/details/119301292][707_树莓派上批量把word文档转成pdf格式]]
