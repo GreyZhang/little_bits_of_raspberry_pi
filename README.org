@@ -32,3 +32,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119301292][707_树莓派上批量把word文档转成pdf格式]]
 *** 树莓派3A+使用体验
 - [[https://greyzhang.blog.csdn.net/article/details/119892772][744_树莓派3A+使用初体验]]
+*** 外网远程树莓派
+- [[https://greyzhang.blog.csdn.net/article/details/119901417][746_使用蒲公英X1远程树莓派]]
