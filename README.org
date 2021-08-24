@@ -30,3 +30,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/114273546][559_使用iostat查看磁盘的读写情况]]
 *** 批量word转pdf
 - [[https://greyzhang.blog.csdn.net/article/details/119301292][707_树莓派上批量把word文档转成pdf格式]]
+*** 树莓派3A+使用体验
+- [[https://greyzhang.blog.csdn.net/article/details/119892772][744_树莓派3A+使用初体验]]
