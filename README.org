@@ -34,3 +34,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119892772][744_树莓派3A+使用初体验]]
 *** 外网远程树莓派
 - [[https://greyzhang.blog.csdn.net/article/details/119901417][746_使用蒲公英X1远程树莓派]]
+*** 仪表盘
+- [[https://greyzhang.blog.csdn.net/article/details/119957187][748_树莓派安装dashboard]]
