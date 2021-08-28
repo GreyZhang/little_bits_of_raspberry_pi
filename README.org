@@ -38,3 +38,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119957187][748_树莓派安装dashboard]]
 *** 关闭15秒一次的声音播报
 - [[https://greyzhang.blog.csdn.net/article/details/119967511][750_关闭树莓派3.5mm音频口的循环播报提示]]
+*** 科大讯飞TTS
+- [[https://greyzhang.blog.csdn.net/article/details/119971633][751_树莓派上调试科大讯飞的TTS SDK编译测试]]
