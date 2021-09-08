@@ -2,7 +2,7 @@
 - 这个repo用来记录下我自己使用树莓派的过程，本来想跟Linux的学习笔记放在一起，后来觉得这个也算是一个比较流行的独立平台，还是做了拆分。
 ** 工具箱
 - 搜集一下我自己用过的工具集合，如果以后做系统的迁移或者设备扩展的时候可以快速创建我需要的工作环境。
-- 工具集合： vim gcc clang emacs texlive-latex-base  latex-cjk-all texlive-latex-extra texmaker texlive-xetex texlive-publishers latexmk texlive-fonts-extra git iotop xrdp tmux lrzsz linuxlogo  nginx php7.3-fpm php7.3-cli php7.3-curl php7.3-gd php7.3-cgi 
+- 工具集合： vim gcc clang emacs texlive-latex-base  latex-cjk-all texlive-latex-extra texmaker texlive-xetex texlive-publishers latexmk texlive-fonts-extra git iotop xrdp tmux lrzsz linuxlogo  nginx php7.3-fpm php7.3-cli php7.3-curl php7.3-gd php7.3-cgi silversearcher-ag
 ** 折腾笔记
 *** 开启SSH服务
 - [[https://greyzhang.blog.csdn.net/article/details/113797359][512_树莓派400开启SSH服务]]
