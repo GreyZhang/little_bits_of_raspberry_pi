@@ -42,3 +42,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/119971633][751_树莓派上调试科大讯飞的TTS SDK编译测试]]
 *** 搭建博客
 - [[https://greyzhang.blog.csdn.net/article/details/120937572][874_在树莓派上搭建Typecho博客]]
+*** 清理系统占用空间
+- [[https://greyzhang.blog.csdn.net/article/details/122530427][1049_树莓派存储空间不够时候的简单清理]]
