@@ -44,3 +44,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/120937572][874_在树莓派上搭建Typecho博客]]
 *** 清理系统占用空间
 - [[https://greyzhang.blog.csdn.net/article/details/122530427][1049_树莓派存储空间不够时候的简单清理]]
+*** docker安装
+- [[https://blog.csdn.net/grey_csdn/article/details/126493509][1337_树莓派上安装docker]]
