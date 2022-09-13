@@ -46,5 +46,5 @@
 - [[https://greyzhang.blog.csdn.net/article/details/122530427][1049_树莓派存储空间不够时候的简单清理]]
 *** docker安装
 - [[https://blog.csdn.net/grey_csdn/article/details/126493509][1337_树莓派上安装docker]]
-** Ubuntu 与 KDE
-- [[https://blog.csdn.net/grey_csdn/article/details/126533001][1339_老电脑V480体验Linux系统]]
+*** aria2安装
+- [[https://blog.csdn.net/grey_csdn/article/details/126843534][1458_树莓派安装使用aria2]]
