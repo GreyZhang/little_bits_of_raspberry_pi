@@ -48,3 +48,5 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/126493509][1337_树莓派上安装docker]]
 *** aria2安装
 - [[https://blog.csdn.net/grey_csdn/article/details/126843534][1458_树莓派安装使用aria2]]
+*** 电机驱动
+- [[https://blog.csdn.net/grey_csdn/article/details/132595217][1774_实现树莓派小车的L298N电机驱动模块]]
