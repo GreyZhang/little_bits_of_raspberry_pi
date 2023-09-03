@@ -56,3 +56,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/132645720][1776_树莓派简介视频学习小结]]
 - [[https://blog.csdn.net/grey_csdn/article/details/132645756][1777_树莓派截图功能实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/132645780][1778_树莓派系统安装]]
+- [[https://blog.csdn.net/grey_csdn/article/details/132645797][1779_树莓派小车电机驱动软件实现]]
