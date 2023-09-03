@@ -54,3 +54,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/132595278][1775_树莓派3B键盘映射错误解决]]
 ** 杂项笔记
 - [[https://blog.csdn.net/grey_csdn/article/details/132645720][1776_树莓派简介视频学习小结]]
+- [[https://blog.csdn.net/grey_csdn/article/details/132645756][1777_树莓派截图功能实现]]
