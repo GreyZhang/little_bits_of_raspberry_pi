@@ -52,3 +52,5 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/132595217][1774_实现树莓派小车的L298N电机驱动模块]]
 *** 键盘映射
 - [[https://blog.csdn.net/grey_csdn/article/details/132595278][1775_树莓派3B键盘映射错误解决]]
+** 杂项笔记
+- [[https://blog.csdn.net/grey_csdn/article/details/132645720][1776_树莓派简介视频学习小结]]
