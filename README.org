@@ -59,3 +59,4 @@
 - [[https://blog.csdn.net/grey_csdn/article/details/132645797][1779_树莓派小车电机驱动软件实现]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133203408][1790_给通过USB连接到树莓派的NTFS硬盘设置固定的挂载名称]]
 - [[https://blog.csdn.net/grey_csdn/article/details/133203428][1791_树莓派bash入门杂志_Essentials_Bash_v1]]
+- [[https://blog.csdn.net/grey_csdn/article/details/133206960][1793_树莓派杂志第一期MagPi01阅读]]
